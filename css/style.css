@@ -35,6 +35,7 @@ li:last-child {
 .wrapper {
     width: 100%;
     height: 100vh;
+    overflow-y: hidden;
     background-image: url(/css/img/bg.jpg);
     background-color: #aaa;
     background-blend-mode: soft-light;
