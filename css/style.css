@@ -44,12 +44,12 @@ li:last-child {
     background-image: url(/css/img/bg.jpg);
     background-color: #aaa;
     background-blend-mode: soft-light;
-    background-size: cover;
-    background-position: top center;
+    background-size: contain;
+    background-position: top right;
 }
 
 .container {
-    max-width: 60%;
+    max-width: 70%;
     height: 100vh;
     padding: 10px 0;
     background-color: #fff;
