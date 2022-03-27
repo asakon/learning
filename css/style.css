@@ -51,6 +51,8 @@ li:last-child {
 .container {
     max-width: 70%;
     height: 100vh;
-    padding: 10px 0;
     background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
