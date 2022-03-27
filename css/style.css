@@ -63,3 +63,19 @@ li:last-child {
     }
 }
 
+@media screen and (max-width: 630px) {
+    .container {
+        max-width: none;
+        background-color: #ffffffc2;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    h1 {
+        font-size: 28px;
+        letter-spacing: 4px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+}
